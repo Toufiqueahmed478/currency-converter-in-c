@@ -1,0 +1,15 @@
+# Compiled programs and object files
+currency_converter
+currency_converter.exe
+*.o
+*.out
+
+# Runtime-generated conversion history
+History.txt
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
